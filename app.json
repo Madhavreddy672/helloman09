@@ -1,0 +1,15 @@
+{
+    "name": "python--Searchr-bot ",
+    "description": "Telegram Search bot with python",
+    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "keywords": [
+      "Search",
+      "bot",
+      "In",
+      "python"
+    ],
+    "repository": "https://github.com/Madhavreddy672/Helloman09",
+    "website": "https://github.com/Madhavreddy672/Helloman09",
+    "success_url": "https://github.com/Madhavreddy672/Helloman09",
+    "stack": "container"
+}
